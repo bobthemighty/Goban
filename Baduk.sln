@@ -7,6 +7,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Baduk", "Baduk\Baduk.fsproj
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Baduk.Test", "Baduk.Test\Baduk.Test.fsproj", "{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goban", "Goban\Goban.csproj", "{4BE93129-56C0-4E7A-A4FB-F410127AD96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goban.Test", "Goban.Test\Goban.Test.csproj", "{861AEFBE-485A-49F4-9DBF-FBA5428C09DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861AEFBE-485A-49F4-9DBF-FBA5428C09DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861AEFBE-485A-49F4-9DBF-FBA5428C09DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861AEFBE-485A-49F4-9DBF-FBA5428C09DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861AEFBE-485A-49F4-9DBF-FBA5428C09DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
