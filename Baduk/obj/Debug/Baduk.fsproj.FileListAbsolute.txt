@@ -1,0 +1,7 @@
+d:\dev\huddle\play\Baduk\Baduk\bin\Debug\Baduk.XML
+d:\dev\huddle\play\Baduk\Baduk\bin\Debug\Baduk.dll
+d:\dev\huddle\play\Baduk\Baduk\bin\Debug\Baduk.pdb
+d:\dev\huddle\play\Baduk\Baduk\bin\Debug\FSharp.Core.dll
+d:\dev\huddle\play\Baduk\Baduk\bin\Debug\FSharp.Core.xml
+d:\dev\huddle\play\Baduk\Baduk\obj\Debug\Baduk.dll
+d:\dev\huddle\play\Baduk\Baduk\obj\Debug\Baduk.pdb

@@ -1,0 +1,14 @@
+d:\dev\huddle\play\Baduk\Baduk.Test\obj\Debug\Baduk.Test.fsprojResolveAssemblyReference.cache
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\Baduk.Test.XML
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\Baduk.Test.dll
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\Baduk.Test.pdb
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\Baduk.dll
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\FSharp.Core.dll
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\FsUnit.NUnit.dll
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\nunit.framework.dll
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\Baduk.pdb
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\Baduk.xml
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\FSharp.Core.xml
+d:\dev\huddle\play\Baduk\Baduk.Test\bin\Debug\nunit.framework.xml
+d:\dev\huddle\play\Baduk\Baduk.Test\obj\Debug\Baduk.Test.dll
+d:\dev\huddle\play\Baduk\Baduk.Test\obj\Debug\Baduk.Test.pdb
