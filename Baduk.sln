@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Baduk", "Baduk\Baduk.fsproj", "{767C840F-E371-4FCA-8AC1-8615C0906D8C}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Baduk.Test", "Baduk.Test\Baduk.Test.fsproj", "{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goban", "Goban\Goban.csproj", "{4BE93129-56C0-4E7A-A4FB-F410127AD96B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goban.Test", "Goban.Test\Goban.Test.csproj", "{861AEFBE-485A-49F4-9DBF-FBA5428C09DD}"
@@ -17,14 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{767C840F-E371-4FCA-8AC1-8615C0906D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{767C840F-E371-4FCA-8AC1-8615C0906D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{767C840F-E371-4FCA-8AC1-8615C0906D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{767C840F-E371-4FCA-8AC1-8615C0906D8C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF7403D9-E951-4A5C-B728-F5F9D2EF8CF2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BE93129-56C0-4E7A-A4FB-F410127AD96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
