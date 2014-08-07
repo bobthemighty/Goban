@@ -82,5 +82,15 @@ namespace Goban
             if (Elements[Below(pos)] != State.Grey) yield return Below(pos);
             if (Elements[Left(pos)] != State.Grey) yield return Left(pos);
         }
+
+        public void Set(int x, int y, Colour state)
+        {
+            Elements[Index(new Point(x, y))] = (State)state;
+        }
+
+        public State StateAt(int x, int y)
+        {
+            return Elements[Index(new Point(x, y))];
+        }
     }
 }
