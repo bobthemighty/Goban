@@ -8,3 +8,5 @@ d:\dev\huddle\play\Baduk\Goban.Test\obj\Debug\Goban.Test.dll
 d:\dev\huddle\play\Baduk\Goban.Test\obj\Debug\Goban.Test.pdb
 d:\dev\huddle\play\Baduk\Goban.Test\bin\Debug\CuttingEdge.Conditions.dll
 d:\dev\huddle\play\Baduk\Goban.Test\bin\Debug\CuttingEdge.Conditions.xml
+d:\dev\huddle\play\Baduk\Goban.Test\bin\Debug\Goban.dll
+d:\dev\huddle\play\Baduk\Goban.Test\bin\Debug\Goban.pdb
