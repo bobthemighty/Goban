@@ -1,7 +1,0 @@
-d:\dev\huddle\play\Baduk\Goban\bin\Debug\Goban.dll
-d:\dev\huddle\play\Baduk\Goban\bin\Debug\Goban.pdb
-d:\dev\huddle\play\Baduk\Goban\obj\Debug\Goban.csprojResolveAssemblyReference.cache
-d:\dev\huddle\play\Baduk\Goban\obj\Debug\Goban.dll
-d:\dev\huddle\play\Baduk\Goban\obj\Debug\Goban.pdb
-d:\dev\huddle\play\Baduk\Goban\bin\Debug\CuttingEdge.Conditions.dll
-d:\dev\huddle\play\Baduk\Goban\bin\Debug\CuttingEdge.Conditions.xml
